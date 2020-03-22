@@ -6,3 +6,4 @@ Oh, valley of plenty
 git gui test
 
 string for feature
+second string for feature
